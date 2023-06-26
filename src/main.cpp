@@ -8,7 +8,7 @@ int main()
   int favourite_number;
 
   // `<<` is the stream operator
-  std::cout << "Enter your favourite number 1-100";
+  std::cout << "Enter your favourite number 1-100: ";
 
   // `>>` is the stream operator
   std::cin >> favourite_number;
